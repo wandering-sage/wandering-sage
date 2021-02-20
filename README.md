@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 
 <br/>
 
+## 🔥 Some Cool Projects
+- [**Algorithm Visualizer**](https://wandering-sage.github.io/Algo-Visualizer/)
+- [**Piano**](https://wandering-sage.github.io/Piano/)
+- [**Truth Dare**](https://wandering-sage.github.io/Truth-Dare/)
+- [**Canvas**](https://wandering-sage.github.io/Canvas/)
+
+<br/>
+
 ## 📜 Languages
 ![Java Script](/images/javascript.png "JavaScript")
 ![C++](/images/c++.png "C++")

@@ -10,6 +10,44 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Node and React
 - 💬 Ask me about JavaScript, C++, Competitive-Coding & 🌌 Universe
 - 📫 How to reach me: shivam4503@gmail.com
-- ⚡ Fun fact: Universe is expanding and so is my knowledge ✌️
+- ⚡ Fun fact: The universe is expanding and so is my knowledge ✌️
+
+<br/>
 
 ## 📜 Languages
+![Java Script](/images/javascript.png "JavaScript")
+![C++](/images/c++.png "C++")
+![python](/images/python.png "Python")
+![html](/images/html.png "HTML")
+![css](/images/css.png "CSS")
+![java](/images/java.png "Java")
+
+<br/>
+
+## 📡 Tools and Technology 
+![vs code](/images/vs%20code.png "VS Code")
+![pycharm](/images/pycharm.png "Py Charm")
+![android studio](/images/android%20studio.png "Android Studio")
+![nodejs](/images/nodejs.png "Node JS")
+![git](/images/git.png "Git")
+![github](/images/github.png "GitHub")
+![terminal](/images/terminal.png "Terminal")
+![Photoshop](/images/adobe%20photoshop.png "Photoshop")
+![Illustrator](/images/adobe%20illustrator.png "Illustrator")
+
+<br/>
+
+## 📑 Currently learning
+![react](/images/react.png "React")
+![firebase](/images/firebase.png "Firebase")
+<img src="/images/p5js.png" width="48" title="p5.js">
+![mongodb](/images/mongodb.png "MongoDB")
+![electron](/images/electron.png "Electron")
+![docker](/images/docker.png "Docker")
+![type script](/images/typescript.png "TypeScript")
+
+<br/>
+
+## 📈&nbsp;My GitHub stats
+<img src="https://github-readme-stats.vercel.app/api?username=wandering-sage&show_icons=true&theme=dracula&count_private=true&show_icons=true&hide_title=true"/>
+<img src="https://komarev.com/ghpvc/?username=wandering-sage&label=Profile+Views&color=2e8b57&style=flat" /></a>

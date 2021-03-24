@@ -56,6 +56,4 @@ Here are some ideas to get you started:
 
 <br/>
 
-## 📈&nbsp;My GitHub stats
-<img src="https://github-readme-stats.vercel.app/api?username=wandering-sage&show_icons=true&theme=dracula&count_private=true&show_icons=true&hide_title=true"/>
 <img src="https://komarev.com/ghpvc/?username=wandering-sage&label=Profile+Views&color=2e8b57&style=flat" /></a>

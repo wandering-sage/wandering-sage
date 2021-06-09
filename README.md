@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ## 🔥 Some Cool Projects
 - [**Algorithm Visualizer**](https://wandering-sage.github.io/Algo-Visualizer/)
+- [**Algo Snake**](https://wandering-sage.github.io/algo-snake/)
 - [**Piano**](https://wandering-sage.github.io/Piano/)
-- [**Truth Dare**](https://wandering-sage.github.io/Truth-Dare/)
 - [**Canvas**](https://wandering-sage.github.io/Canvas/)
 
 <br/>

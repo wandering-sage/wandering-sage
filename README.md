@@ -1,4 +1,4 @@
-## 👋 Hi! I am Shivam 
+## 👋 Hi! I am Shivam, Checkout is my [**Website**](https://wandering-sage.github.io/).
 
 <!--
 **wandering-sage/wandering-sage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my portfolio website
+- 🔭 I’m currently working on DS and Algo
 - 🌱 I’m currently learning Node and React
 - 💬 Ask me about JavaScript, C++, Competitive-Coding & 🌌 Universe
 - 📫 How to reach me: shivam4503@gmail.com
@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 <br/>
 
 ## 🔥 Some Cool Projects
-- [**Algorithm Visualizer**](https://wandering-sage.github.io/Algo-Visualizer/)
 - [**Algo Snake**](https://wandering-sage.github.io/algo-snake/)
+- [**Algorithm Visualizer**](https://wandering-sage.github.io/Algo-Visualizer/)
+- [**Blog**](https://blog-heroku-s.herokuapp.com/)
 - [**Piano**](https://wandering-sage.github.io/Piano/)
 - [**Canvas**](https://wandering-sage.github.io/Canvas/)
+
 
 <br/>
 

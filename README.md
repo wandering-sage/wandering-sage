@@ -10,14 +10,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Node and React
 - 💬 Ask me about JavaScript, C++, Competitive-Coding & 🌌 Universe
 - 📫 How to reach me: shivam4503@gmail.com
-- ⚡ Fun fact: The universe is expanding and so is my knowledge ✌️
 
 <br/>
 
 ## 🔥 Some Cool Projects
+- [**Portfolio**](https://wandering-sage.github.io/)
 - [**Algo Snake**](https://wandering-sage.github.io/algo-snake/)
 - [**Algorithm Visualizer**](https://wandering-sage.github.io/Algo-Visualizer/)
-- [**Blog**](https://blog-heroku-s.herokuapp.com/)
 - [**Piano**](https://wandering-sage.github.io/Piano/)
 - [**Canvas**](https://wandering-sage.github.io/Canvas/)
 
@@ -26,11 +25,11 @@ Here are some ideas to get you started:
 
 ## 📜 Languages
 ![Java Script](/images/javascript.png "JavaScript")
+![react](/images/react.png "React")
 ![C++](/images/c++.png "C++")
 ![python](/images/python.png "Python")
 ![html](/images/html.png "HTML")
 ![css](/images/css.png "CSS")
-![java](/images/java.png "Java")
 
 <br/>
 
@@ -48,13 +47,11 @@ Here are some ideas to get you started:
 <br/>
 
 ## 📑 Currently learning
-![react](/images/react.png "React")
-![firebase](/images/firebase.png "Firebase")
-<img src="/images/p5js.png" width="48" title="p5.js">
+![type script](/images/typescript.png "TypeScript")
+<img src="/images/p5js.png" width="40" title="p5.js">
 ![mongodb](/images/mongodb.png "MongoDB")
 ![electron](/images/electron.png "Electron")
 ![docker](/images/docker.png "Docker")
-![type script](/images/typescript.png "TypeScript")
 
 <br/>
 

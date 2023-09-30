@@ -1,4 +1,4 @@
-## 👋 Hi! I am Shivam, Checkout is my [**Website**](https://wandering-sage.github.io/).
+## 👋 Hi! I am Shivam, Checkout my [**Website**](https://wandering-sage.github.io/).
 
 <!--
 **wandering-sage/wandering-sage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
